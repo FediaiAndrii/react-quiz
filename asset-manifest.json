@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FediaiAndrii/react-quiz/static/css/main.beb13c0a.css",
+    "main.js": "/FediaiAndrii/react-quiz/static/js/main.f3c9a84e.js",
+    "index.html": "/FediaiAndrii/react-quiz/index.html",
+    "main.beb13c0a.css.map": "/FediaiAndrii/react-quiz/static/css/main.beb13c0a.css.map",
+    "main.f3c9a84e.js.map": "/FediaiAndrii/react-quiz/static/js/main.f3c9a84e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb13c0a.css",
+    "static/js/main.f3c9a84e.js"
+  ]
+}
